@@ -14,7 +14,7 @@ Berikut file file yg digunakan dan dimasukan pada folder berikut :
 ### E. Manifest :[klik disini](https://github.com/HanZamu-code/Rekayasa-Perangkat-Lunak/blob/master/app/src/main/AndroidManifest.xml)
 ### F. Menu :[klik disini](https://github.com/HanZamu-code/Rekayasa-Perangkat-Lunak/blob/master/app/src/main/res/menu/option.xml)
 ### G. Running Aplikasi : 
-![Running](RKS.gif)
+![Running](run_aplikasi.gif)
 
 
 
